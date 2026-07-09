@@ -82,20 +82,6 @@ The application will open automatically in your browser.
 
 ## 📸 Screenshots
 
-Add application screenshots here.
 
-## 🔮 Future Improvements
 
-* 🌍 Automatic location detection
-* 📅 Weather forecast prediction
-* 🚨 Weather alerts
-* 📱 Mobile responsive design
-* 🧠 More advanced AI recommendations
 
-## 👨‍💻 Author
-
-**Gavin Bedi**
-
-## ⭐ Support
-
-If you find this project useful, consider giving it a star ⭐ on GitHub.
